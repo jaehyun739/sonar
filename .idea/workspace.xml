@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d398eadd-13f1-4f90-b98a-0d404780341f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/calculator.java" afterPath="$PROJECT_DIR$/src/main/java/calculator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -85,15 +84,11 @@
       <file leaf-file-name="calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding>
                 <element signature="e#69#70#0" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#180#181#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#245#246#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -718,7 +713,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523582206536</updated>
       <workItem from="1523582209521" duration="452000" />
-      <workItem from="1523598620815" duration="1848000" />
+      <workItem from="1523598620815" duration="2127000" />
     </task>
     <task id="LOCAL-00001" summary="hi test1">
       <created>1523600634163</created>
@@ -763,7 +758,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2300000" />
+    <option name="totallyTimeSpent" value="2579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="24" width="1125" height="775" extended-state="0" />
@@ -836,10 +831,6 @@
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -856,15 +847,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="150">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
