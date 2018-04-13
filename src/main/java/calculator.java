@@ -11,5 +11,6 @@ public class calculator {
     }
     public int mul(int a, int b) {
         return  a* b;
+
     }
 }
