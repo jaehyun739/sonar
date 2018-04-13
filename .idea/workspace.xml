@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d398eadd-13f1-4f90-b98a-0d404780341f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/calculator.java" afterPath="$PROJECT_DIR$/src/main/java/calculator.java" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -81,7 +81,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="calculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="calculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -96,6 +96,16 @@
                 <element signature="e#280#281#0" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -426,6 +436,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/calculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/calculator.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -719,7 +730,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523582206536</updated>
       <workItem from="1523582209521" duration="452000" />
-      <workItem from="1523598620815" duration="2587000" />
+      <workItem from="1523598620815" duration="2660000" />
     </task>
     <task id="LOCAL-00001" summary="hi test1">
       <created>1523600634163</created>
@@ -764,7 +775,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3039000" />
+    <option name="totallyTimeSpent" value="3112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="24" width="1125" height="775" extended-state="0" />
@@ -871,6 +882,14 @@
             <element signature="e#280#281#0" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="false" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
