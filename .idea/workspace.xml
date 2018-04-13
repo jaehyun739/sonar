@@ -84,11 +84,14 @@
       <file leaf-file-name="calculator.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="75">
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
               <folding>
                 <element signature="e#69#70#0" expanded="true" />
                 <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#180#181#0" expanded="true" />
+                <element signature="e#217#218#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -713,7 +716,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523582206536</updated>
       <workItem from="1523582209521" duration="452000" />
-      <workItem from="1523598620815" duration="2430000" />
+      <workItem from="1523598620815" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="hi test1">
       <created>1523600634163</created>
@@ -758,7 +761,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2882000" />
+    <option name="totallyTimeSpent" value="2957000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="109" y="24" width="1125" height="775" extended-state="0" />
@@ -831,6 +834,9 @@
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -847,11 +853,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
           <folding>
             <element signature="e#69#70#0" expanded="true" />
             <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
           </folding>
         </state>
       </provider>
