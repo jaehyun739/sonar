@@ -1,0 +1,19 @@
+language: java
+
+addons:
+  sonarcloud:
+    organization: "sv"
+    token:
+      secure:"49f9311c457a30780daebbe631ff434a3b17c9f7"
+
+before_install:
+  - chmod +x gradlew
+
+script: "gradle build"
+  - ./gradlew sonarqube
+cache:
+  directories:
+    - '$HOME/.m2/repository'
+    - '$HOME/.sonar/cache'
+    - '$HOME/.gradle'
+    - '.gradle'
